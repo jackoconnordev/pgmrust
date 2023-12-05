@@ -1,1 +1,1 @@
-struct Vertex;
+pub struct Vertex;

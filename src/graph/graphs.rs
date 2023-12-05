@@ -1,2 +1,2 @@
-mod edges;
-mod vertices;
+pub mod edges;
+pub mod vertices;

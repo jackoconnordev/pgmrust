@@ -1,1 +1,1 @@
-struct Edge;
+pub struct Edge;
