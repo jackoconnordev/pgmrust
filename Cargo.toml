@@ -7,6 +7,7 @@ edition = "2021"
 
 [dependencies]
 
+# I am aware I could have done this in a bash script
 [dev-dependencies.cargo-husky]
 version = "1"
 default-features = false # Disable features which are enabled by default
