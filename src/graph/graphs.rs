@@ -1,2 +1,1 @@
-pub mod edges;
-pub mod vertices;
+pub mod simple_graph;
