@@ -1,3 +1,6 @@
 # PGMrust
 
-I think PGMpy is cool and I want to practice using rust for something proper.
+I think [PGMpy](https://pgmpy.org/) is cool and I want to practice using Rust for a full project.
+
+Goals:
+- Create a graph module with 
